@@ -53,6 +53,7 @@
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\PartitionList.cs" />
+    <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
