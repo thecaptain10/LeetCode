@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeProblems.Hard
 {
-    public class Solution
+    public class CandyClass
     {
         public int Candy(int[] ratings)
         {

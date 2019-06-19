@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeProblems.Medium
 {
-    public class Solution
+    public class LargestNumberClass
     {
         public string LargestNumber(int[] nums)
         {

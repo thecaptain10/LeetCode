@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Hard\Candy.cs" />
+    <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
