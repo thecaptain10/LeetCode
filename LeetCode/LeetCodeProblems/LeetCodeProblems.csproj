@@ -43,9 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\LinkedListCycle.cs" />
+    <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
+    <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Hard\Candy.cs" />
+    <Compile Include="Medium\ContainerWithMostWater.cs" />
+    <Compile Include="Medium\CopyListWithRandomPointers.cs" />
+    <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
+    <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

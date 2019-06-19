@@ -13,8 +13,7 @@ namespace LeetCodeProblems
             int[] input = new int[] {
             0, 0
             };
-
-
+            
 
             //var res = Method(4, 2);
             string s = string.Empty;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeProblems.Easy
 {
-    public class Solution
+    public class PascalTriangle
     {
         public IList<IList<int>> Generate(int numRows)
         {
