@@ -58,6 +58,7 @@
     <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
+    <Compile Include="Medium\ValidateBST.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
