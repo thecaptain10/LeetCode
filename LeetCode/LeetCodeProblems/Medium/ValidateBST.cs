@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeProblems.Medium
 {
+    //https://leetcode.com/problems/validate-binary-search-tree/
     public class ValidateBST
     {
         public bool IsValidBST(TreeNode root)
