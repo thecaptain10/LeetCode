@@ -43,19 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
+    <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
+    <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\PartitionList.cs" />
+    <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
+    <Compile Include="Medium\ValidateBST.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
