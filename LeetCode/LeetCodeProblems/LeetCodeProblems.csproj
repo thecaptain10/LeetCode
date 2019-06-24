@@ -54,6 +54,7 @@
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
+    <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
