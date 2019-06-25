@@ -51,6 +51,7 @@
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
+    <Compile Include="Easy\RevString.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
