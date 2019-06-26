@@ -62,6 +62,7 @@
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
+    <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
