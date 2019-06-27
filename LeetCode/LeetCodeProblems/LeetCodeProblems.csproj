@@ -47,6 +47,7 @@
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
+    <Compile Include="Easy\MaximumSubArray.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
