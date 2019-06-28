@@ -71,6 +71,7 @@
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\UniquePathsInGrid.cs" />
+    <Compile Include="Medium\UniquePathsInGridWithObstacles.cs" />
     <Compile Include="Medium\ValidateBST.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
