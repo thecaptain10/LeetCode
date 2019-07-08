@@ -55,6 +55,7 @@
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Hard\Candy.cs" />
+    <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
@@ -75,6 +76,7 @@
     <Compile Include="Medium\UniquePathsInGrid.cs" />
     <Compile Include="Medium\UniquePathsInGridWithObstacles.cs" />
     <Compile Include="Medium\ValidateBST.cs" />
+    <Compile Include="Medium\WordBreakProblem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
