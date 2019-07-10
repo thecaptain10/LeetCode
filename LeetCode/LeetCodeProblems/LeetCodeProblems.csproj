@@ -50,6 +50,7 @@
     <Compile Include="Easy\LinkedListIntersection.cs" />
     <Compile Include="Easy\MaximumSubArray.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
+    <Compile Include="Easy\MissingNumberInArray.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
