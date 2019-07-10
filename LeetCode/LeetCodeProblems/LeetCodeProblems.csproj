@@ -71,6 +71,7 @@
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
+    <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\UniqueBSTCount.cs" />
