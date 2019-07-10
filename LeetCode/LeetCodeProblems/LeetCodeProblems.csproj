@@ -68,6 +68,7 @@
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
+    <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\PartitionList.cs" />
