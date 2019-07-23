@@ -80,6 +80,7 @@
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
+    <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
