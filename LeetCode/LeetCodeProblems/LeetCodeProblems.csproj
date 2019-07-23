@@ -84,6 +84,7 @@
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
+    <Compile Include="Medium\NextRightPointerInTree.cs" />
     <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Medium\PathSumAllPaths.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
