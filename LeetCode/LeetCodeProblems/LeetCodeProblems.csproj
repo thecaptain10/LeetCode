@@ -43,10 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\BalancedBinaryTree.cs" />
     <Compile Include="Easy\ClimbStair.cs" />
     <Compile Include="Easy\ContinuousIncreasingSubsequence.cs" />
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
     <Compile Include="Easy\DiameterOfTree.cs" />
+    <Compile Include="Easy\InvertBinaryTree.cs" />
+    <Compile Include="Easy\LevelAverageInBinaryTree.cs" />
+    <Compile Include="Easy\LevelOrderTraversalRev.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
     <Compile Include="Easy\LowestCommonAncestorInBST.cs" />
@@ -59,6 +63,8 @@
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
+    <Compile Include="Easy\SameTree.cs" />
+    <Compile Include="Easy\SubtreeOfAnotherTree.cs" />
     <Compile Include="Easy\SymmetricTrees.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
@@ -71,6 +77,7 @@
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
+    <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
@@ -86,6 +93,7 @@
     <Compile Include="Medium\UniquePathsInGridWithObstacles.cs" />
     <Compile Include="Medium\ValidateBST.cs" />
     <Compile Include="Medium\WordBreakProblem.cs" />
+    <Compile Include="Medium\ZigzagLevelOrderTraversal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
