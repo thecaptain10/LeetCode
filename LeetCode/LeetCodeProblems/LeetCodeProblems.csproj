@@ -84,6 +84,7 @@
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\PartitionList.cs" />
+    <Compile Include="Medium\PathSumAllPaths.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
