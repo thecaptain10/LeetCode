@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\BalancedBinaryTree.cs" />
     <Compile Include="Easy\ClimbStair.cs" />
     <Compile Include="Easy\ContinuousIncreasingSubsequence.cs" />
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
     <Compile Include="Easy\DiameterOfTree.cs" />
+    <Compile Include="Easy\InvertBinaryTree.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
     <Compile Include="Easy\LowestCommonAncestorInBST.cs" />
@@ -59,6 +61,7 @@
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
+    <Compile Include="Easy\SameTree.cs" />
     <Compile Include="Easy\SymmetricTrees.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
