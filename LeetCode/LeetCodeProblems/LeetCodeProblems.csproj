@@ -61,6 +61,7 @@
     <Compile Include="Easy\MissingNumberInArray.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
+    <Compile Include="Easy\PathSumIII.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\SameTree.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\PartitionList.cs" />
+    <Compile Include="Medium\PathSumAllPaths.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
