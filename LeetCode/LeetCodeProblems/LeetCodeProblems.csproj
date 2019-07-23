@@ -46,6 +46,7 @@
     <Compile Include="Easy\ClimbStair.cs" />
     <Compile Include="Easy\ContinuousIncreasingSubsequence.cs" />
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
+    <Compile Include="Easy\DiameterOfTree.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
     <Compile Include="Easy\LowestCommonAncestorInBST.cs" />
