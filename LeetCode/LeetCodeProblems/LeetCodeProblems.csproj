@@ -73,6 +73,7 @@
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
+    <Compile Include="Medium\CompleteTreeNodes.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
