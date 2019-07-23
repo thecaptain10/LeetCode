@@ -62,6 +62,7 @@
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\SameTree.cs" />
+    <Compile Include="Easy\SubtreeOfAnotherTree.cs" />
     <Compile Include="Easy\SymmetricTrees.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
