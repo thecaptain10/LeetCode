@@ -71,6 +71,7 @@
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
+    <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
