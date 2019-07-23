@@ -49,6 +49,7 @@
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
     <Compile Include="Easy\LowestCommonAncestorInBST.cs" />
+    <Compile Include="Easy\MaxDepthOfTree.cs" />
     <Compile Include="Easy\MaximumSubArray.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\MissingNumberInArray.cs" />
