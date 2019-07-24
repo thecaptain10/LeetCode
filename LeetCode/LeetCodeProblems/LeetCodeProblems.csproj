@@ -50,6 +50,7 @@
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
     <Compile Include="Easy\DiameterOfTree.cs" />
     <Compile Include="Easy\InvertBinaryTree.cs" />
+    <Compile Include="Easy\LeftLeavesSum.cs" />
     <Compile Include="Easy\LevelAverageInBinaryTree.cs" />
     <Compile Include="Easy\LevelOrderTraversalRev.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
@@ -60,6 +61,7 @@
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\MinDepthOfTree.cs" />
     <Compile Include="Easy\MissingNumberInArray.cs" />
+    <Compile Include="Easy\ModeInBST.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
@@ -73,16 +75,20 @@
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
+    <Compile Include="Medium\BottomLeftTreeValue.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
+    <Compile Include="Medium\DeleteNodeInBST.cs" />
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
+    <Compile Include="Medium\FrequentSubTreeSum.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
+    <Compile Include="Medium\LargestValueInEachRow.cs" />
     <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
@@ -95,6 +101,7 @@
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
+    <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\UniqueBSTCount.cs" />
     <Compile Include="Medium\UniquePathsInGrid.cs" />
