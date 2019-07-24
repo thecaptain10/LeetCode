@@ -96,6 +96,7 @@
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
+    <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\UniqueBSTCount.cs" />
     <Compile Include="Medium\UniquePathsInGrid.cs" />
