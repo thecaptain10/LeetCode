@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace LeetCodeProblems.Medium
 {
     //https://leetcode.com/problems/serialize-and-deserialize-bst/
+    //https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
     // Serialize and Deserialize BST
+    // Serialize and Deserialize Binary Tree
     public class Codec
     {
 
