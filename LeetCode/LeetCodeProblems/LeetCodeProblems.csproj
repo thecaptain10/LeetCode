@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Easy\BalancedBinaryTree.cs" />
     <Compile Include="Easy\BinaryTreePathsRootToLeaf.cs" />
+    <Compile Include="Easy\BSTToGreaterTree.cs" />
     <Compile Include="Easy\ClimbStair.cs" />
     <Compile Include="Easy\ContinuousIncreasingSubsequence.cs" />
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
