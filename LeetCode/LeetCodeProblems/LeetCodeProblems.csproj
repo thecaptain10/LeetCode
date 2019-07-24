@@ -61,6 +61,7 @@
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\MinDepthOfTree.cs" />
     <Compile Include="Easy\MissingNumberInArray.cs" />
+    <Compile Include="Easy\ModeInBST.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
