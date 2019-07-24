@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Easy\BalancedBinaryTree.cs" />
+    <Compile Include="Easy\BinaryTreePathsRootToLeaf.cs" />
     <Compile Include="Easy\ClimbStair.cs" />
     <Compile Include="Easy\ContinuousIncreasingSubsequence.cs" />
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
@@ -71,12 +72,16 @@
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
+    <Compile Include="Medium\BinaryTreeRightSideView.cs" />
+    <Compile Include="Medium\BSTIterator.cs" />
+    <Compile Include="Medium\CompleteTreeNodes.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
+    <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
