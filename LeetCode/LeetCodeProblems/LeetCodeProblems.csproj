@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Easy\BalancedBinaryTree.cs" />
     <Compile Include="Easy\BinaryTreePathsRootToLeaf.cs" />
+    <Compile Include="Easy\BSTToGreaterTree.cs" />
     <Compile Include="Easy\ClimbStair.cs" />
     <Compile Include="Easy\ContinuousIncreasingSubsequence.cs" />
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
@@ -59,6 +60,7 @@
     <Compile Include="Easy\MaxDepthOfTree.cs" />
     <Compile Include="Easy\MaximumSubArray.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
+    <Compile Include="Easy\MinAbsoluteDiffInBST.cs" />
     <Compile Include="Easy\MinDepthOfTree.cs" />
     <Compile Include="Easy\MissingNumberInArray.cs" />
     <Compile Include="Easy\ModeInBST.cs" />
