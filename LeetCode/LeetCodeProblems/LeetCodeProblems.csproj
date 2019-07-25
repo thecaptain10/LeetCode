@@ -101,6 +101,7 @@
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
+    <Compile Include="Medium\MaximumBinaryTree.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\NextRightPointerInTree.cs" />
     <Compile Include="Medium\PartitionList.cs" />
