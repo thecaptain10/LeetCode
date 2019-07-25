@@ -75,6 +75,7 @@
     <Compile Include="Easy\StringFromBinaryTree.cs" />
     <Compile Include="Easy\SubtreeOfAnotherTree.cs" />
     <Compile Include="Easy\SymmetricTrees.cs" />
+    <Compile Include="Easy\TrimBinarySearchTree.cs" />
     <Compile Include="Easy\TwoSumInBST.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
