@@ -70,6 +70,7 @@
     <Compile Include="Easy\MaxDepthOfN_AryTree.cs" />
     <Compile Include="Easy\N_AryLevelOrderTraversal.cs" />
     <Compile Include="Easy\N_AryPostOrderTraversal.cs" />
+    <Compile Include="Easy\N_AryPreOrderTraversal.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
