@@ -57,6 +57,7 @@
     <Compile Include="Easy\LevelOrderTraversalRev.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
+    <Compile Include="Easy\LongestunivaluePathInTree.cs" />
     <Compile Include="Easy\LowestCommonAncestorInBST.cs" />
     <Compile Include="Easy\MaxDepthOfTree.cs" />
     <Compile Include="Easy\MaximumSubArray.cs" />
