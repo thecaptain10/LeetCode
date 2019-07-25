@@ -101,6 +101,7 @@
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Medium\FrequentSubTreeSum.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
+    <Compile Include="Medium\InsertInBST.cs" />
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
