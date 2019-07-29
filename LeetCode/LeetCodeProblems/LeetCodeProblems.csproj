@@ -102,6 +102,7 @@
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\DeleteNodeInBST.cs" />
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
+    <Compile Include="Medium\FlipEquivalentBinaryTree.cs" />
     <Compile Include="Medium\FrequentSubTreeSum.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\InsertInBST.cs" />
