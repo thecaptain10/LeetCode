@@ -75,6 +75,7 @@
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
+    <Compile Include="Easy\RangeSumOfBST.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\SameTree.cs" />
