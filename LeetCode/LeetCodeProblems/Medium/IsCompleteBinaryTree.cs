@@ -23,8 +23,7 @@ namespace LeetCodeProblems.Medium
             // Create a flag variable which will be set true 
             // when a non full node is seen 
             bool flag = false;
-
-            // Do level order traversal using queue. 
+            
             queue.Enqueue(root);
             while (queue.Count != 0)
             {
