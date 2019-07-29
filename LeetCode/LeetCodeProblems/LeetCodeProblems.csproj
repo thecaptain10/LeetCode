@@ -86,6 +86,7 @@
     <Compile Include="Easy\SymmetricTrees.cs" />
     <Compile Include="Easy\TrimBinarySearchTree.cs" />
     <Compile Include="Easy\TwoSumInBST.cs" />
+    <Compile Include="Easy\UnivaluedBinaryTree.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
@@ -96,14 +97,17 @@
     <Compile Include="Medium\BSTIterator.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
+    <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\DeleteNodeInBST.cs" />
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
+    <Compile Include="Medium\FlipEquivalentBinaryTree.cs" />
     <Compile Include="Medium\FrequentSubTreeSum.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\InsertInBST.cs" />
+    <Compile Include="Medium\IsCompleteBinaryTree.cs" />
     <Compile Include="Medium\JumpGame.cs" />
     <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
