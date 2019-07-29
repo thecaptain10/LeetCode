@@ -75,6 +75,7 @@
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
+    <Compile Include="Easy\RangeSumOfBST.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\SameTree.cs" />
@@ -93,6 +94,7 @@
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
+    <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
