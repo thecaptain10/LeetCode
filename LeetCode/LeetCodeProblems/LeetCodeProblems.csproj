@@ -53,6 +53,7 @@
     <Compile Include="Easy\CountPrimes.cs" />
     <Compile Include="Easy\DiameterOfTree.cs" />
     <Compile Include="Easy\InvertBinaryTree.cs" />
+    <Compile Include="Easy\IsPalindromeNumber.cs" />
     <Compile Include="Easy\LeftLeavesSum.cs" />
     <Compile Include="Easy\LevelAverageInBinaryTree.cs" />
     <Compile Include="Easy\LevelOrderTraversalRev.cs" />
