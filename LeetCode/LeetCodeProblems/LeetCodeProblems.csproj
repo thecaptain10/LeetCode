@@ -97,6 +97,7 @@
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
+    <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
     <Compile Include="Medium\AddOneRowToTree.cs" />
     <Compile Include="Medium\AddTwoNumbersUsingLL.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
