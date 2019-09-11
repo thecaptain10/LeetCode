@@ -79,6 +79,7 @@
     <Compile Include="Easy\RangeSumOfBST.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RemoveLinkedListElements.cs" />
+    <Compile Include="Easy\ReorderDataInLogFiles.cs" />
     <Compile Include="Easy\ReverseLinkedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\RootToLeafBinaryNumbers.cs" />
@@ -89,12 +90,15 @@
     <Compile Include="Easy\SubtreeOfAnotherTree.cs" />
     <Compile Include="Easy\SymmetricTrees.cs" />
     <Compile Include="Easy\TrimBinarySearchTree.cs" />
+    <Compile Include="Easy\TwoSumInArray.cs" />
     <Compile Include="Easy\TwoSumInBST.cs" />
+    <Compile Include="Easy\TwoSumSortedArray.cs" />
     <Compile Include="Easy\UnivaluedBinaryTree.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Medium\AddOneRowToTree.cs" />
+    <Compile Include="Medium\AddTwoNumbersUsingLL.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
@@ -119,6 +123,7 @@
     <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
+    <Compile Include="Medium\LongestPalindromeSubstring.cs" />
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MaximumBinaryTree.cs" />
@@ -131,6 +136,7 @@
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
+    <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\UniqueBSTCount.cs" />
     <Compile Include="Medium\UniquePathsInGrid.cs" />
