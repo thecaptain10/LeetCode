@@ -79,6 +79,7 @@
     <Compile Include="Easy\RangeSumOfBST.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RemoveLinkedListElements.cs" />
+    <Compile Include="Easy\ReorderDataInLogFiles.cs" />
     <Compile Include="Easy\ReverseLinkedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\RootToLeafBinaryNumbers.cs" />
