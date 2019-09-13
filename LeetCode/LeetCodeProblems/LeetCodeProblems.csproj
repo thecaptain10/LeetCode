@@ -103,6 +103,7 @@
     <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
     <Compile Include="Medium\3Sum.cs" />
     <Compile Include="Medium\3SumClosest.cs" />
+    <Compile Include="Medium\4Sum.cs" />
     <Compile Include="Medium\AddOneRowToTree.cs" />
     <Compile Include="Medium\AddTwoNumbersUsingLL.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
