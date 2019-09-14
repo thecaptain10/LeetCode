@@ -97,6 +97,7 @@
     <Compile Include="Easy\TwoSumInBST.cs" />
     <Compile Include="Easy\TwoSumSortedArray.cs" />
     <Compile Include="Easy\UnivaluedBinaryTree.cs" />
+    <Compile Include="Easy\ValidParentheses.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
