@@ -53,11 +53,13 @@
     <Compile Include="Easy\CountPrimes.cs" />
     <Compile Include="Easy\DiameterOfTree.cs" />
     <Compile Include="Easy\InvertBinaryTree.cs" />
+    <Compile Include="Easy\IsPalindromeNumber.cs" />
     <Compile Include="Easy\LeftLeavesSum.cs" />
     <Compile Include="Easy\LevelAverageInBinaryTree.cs" />
     <Compile Include="Easy\LevelOrderTraversalRev.cs" />
     <Compile Include="Easy\LinkedListCycle.cs" />
     <Compile Include="Easy\LinkedListIntersection.cs" />
+    <Compile Include="Easy\LongestCommonPrefixInStrings.cs" />
     <Compile Include="Easy\LongestunivaluePathInTree.cs" />
     <Compile Include="Easy\LowestCommonAncestorInBST.cs" />
     <Compile Include="Easy\MaxDepthOfTree.cs" />
@@ -80,6 +82,7 @@
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RemoveLinkedListElements.cs" />
     <Compile Include="Easy\ReorderDataInLogFiles.cs" />
+    <Compile Include="Easy\ReverseIntegerNumber.cs" />
     <Compile Include="Easy\ReverseLinkedList.cs" />
     <Compile Include="Easy\RevString.cs" />
     <Compile Include="Easy\RootToLeafBinaryNumbers.cs" />
@@ -94,10 +97,14 @@
     <Compile Include="Easy\TwoSumInBST.cs" />
     <Compile Include="Easy\TwoSumSortedArray.cs" />
     <Compile Include="Easy\UnivaluedBinaryTree.cs" />
+    <Compile Include="Easy\ValidParentheses.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
+    <Compile Include="Medium\3Sum.cs" />
+    <Compile Include="Medium\3SumClosest.cs" />
+    <Compile Include="Medium\4Sum.cs" />
     <Compile Include="Medium\AddOneRowToTree.cs" />
     <Compile Include="Medium\AddTwoNumbersUsingLL.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
@@ -121,6 +128,7 @@
     <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\LargestValueInEachRow.cs" />
+    <Compile Include="Medium\LetterCombinationsOfPhoneNumber.cs" />
     <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
@@ -136,6 +144,7 @@
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
+    <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
