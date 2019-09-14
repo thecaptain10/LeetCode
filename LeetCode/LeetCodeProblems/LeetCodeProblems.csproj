@@ -127,6 +127,7 @@
     <Compile Include="Medium\KthSmallestInBST.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
     <Compile Include="Medium\LargestValueInEachRow.cs" />
+    <Compile Include="Medium\LetterCombinationsOfPhoneNumber.cs" />
     <Compile Include="Medium\LevelOrderTraversal.cs" />
     <Compile Include="Medium\LinkedListCycleII.cs" />
     <Compile Include="Medium\LongestIncreasingSubsequence.cs" />
