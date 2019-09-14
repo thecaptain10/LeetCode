@@ -80,6 +80,7 @@
     <Compile Include="Easy\PathSumIII.cs" />
     <Compile Include="Easy\RangeSumOfBST.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
+    <Compile Include="Easy\RemoveElementFromArray.cs" />
     <Compile Include="Easy\RemoveLinkedListElements.cs" />
     <Compile Include="Easy\ReorderDataInLogFiles.cs" />
     <Compile Include="Easy\ReverseIntegerNumber.cs" />
