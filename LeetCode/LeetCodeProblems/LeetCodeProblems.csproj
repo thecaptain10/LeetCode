@@ -117,6 +117,7 @@
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
     <Compile Include="Medium\CombinationSumII.cs" />
+    <Compile Include="Medium\CombinationSumSets.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
     <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
