@@ -161,6 +161,7 @@
     <Compile Include="Medium\UniquePathsInGrid.cs" />
     <Compile Include="Medium\UniquePathsInGridWithObstacles.cs" />
     <Compile Include="Medium\ValidateBST.cs" />
+    <Compile Include="Medium\ValidSudoku.cs" />
     <Compile Include="Medium\WordBreakProblem.cs" />
     <Compile Include="Medium\ZigzagLevelOrderTraversal.cs" />
     <Compile Include="Program.cs" />
