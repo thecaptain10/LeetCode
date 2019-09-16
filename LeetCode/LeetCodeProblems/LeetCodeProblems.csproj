@@ -90,6 +90,7 @@
     <Compile Include="Easy\RootToLeafBinaryNumbers.cs" />
     <Compile Include="Easy\SameTree.cs" />
     <Compile Include="Easy\SearchInBST.cs" />
+    <Compile Include="Easy\SearchInsertPosition.cs" />
     <Compile Include="Easy\SecondMinInBinaryTree.cs" />
     <Compile Include="Easy\StringFromBinaryTree.cs" />
     <Compile Include="Easy\SubtreeOfAnotherTree.cs" />
