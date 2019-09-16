@@ -106,6 +106,7 @@
     <Compile Include="Hard\LongestValidPranthesisInString.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
+    <Compile Include="Hard\SudokuSolver.cs" />
     <Compile Include="Medium\3Sum.cs" />
     <Compile Include="Medium\3SumClosest.cs" />
     <Compile Include="Medium\4Sum.cs" />
