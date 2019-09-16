@@ -106,6 +106,7 @@
     <Compile Include="Hard\LongestValidPranthesisInString.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
+    <Compile Include="Hard\SudokuSolver.cs" />
     <Compile Include="Medium\3Sum.cs" />
     <Compile Include="Medium\3SumClosest.cs" />
     <Compile Include="Medium\4Sum.cs" />
@@ -115,6 +116,8 @@
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
+    <Compile Include="Medium\CombinationSumII.cs" />
+    <Compile Include="Medium\CombinationSumSets.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
     <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
