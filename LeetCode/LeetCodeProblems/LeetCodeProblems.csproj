@@ -122,6 +122,7 @@
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\DeleteNodeInBST.cs" />
     <Compile Include="Medium\DivideTwoIntegers.cs" />
+    <Compile Include="Medium\FirstAndLastPositionInSorted.cs" />
     <Compile Include="Medium\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Medium\FlipEquivalentBinaryTree.cs" />
     <Compile Include="Medium\FrequentSubTreeSum.cs" />
@@ -150,6 +151,7 @@
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
+    <Compile Include="Medium\SearchInRotatedSortedArray.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
