@@ -152,6 +152,7 @@
     <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Medium\PathSumAllPaths.cs" />
     <Compile Include="Medium\Permutations.cs" />
+    <Compile Include="Medium\PermutationsII.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
