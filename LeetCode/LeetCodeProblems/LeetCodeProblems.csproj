@@ -112,6 +112,7 @@
     <Compile Include="Medium\4Sum.cs" />
     <Compile Include="Medium\AddOneRowToTree.cs" />
     <Compile Include="Medium\AddTwoNumbersUsingLL.cs" />
+    <Compile Include="Medium\AnagramGroup.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
