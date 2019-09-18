@@ -20,16 +20,16 @@ namespace LeetCodeProblems.Medium
             int[] digitMultiplication = new int[maxLength];
 
             //Multiply individual digit
-            for(int i=0;i<num1.Length;i++)
+            for (int i = 0; i < num1.Length; i++)
             {
-                for(int j = 0;j < num2.Length;j++)
+                for (int j = 0; j < num2.Length; j++)
                 {
-                    digitMultiplication[i + j + 1] += (num1[i] - '0') * (num2[j] - '0');                    
+                    digitMultiplication[i + j + 1] += (num1[i] - '0') * (num2[j] - '0');
                 }
             }
 
             // Now represent as number
-            for(int i= maxLength - 1;i>0;i--)
+            for (int i = maxLength - 1; i > 0; i--)
             {
                 digitMultiplication[i - 1] += digitMultiplication[i] / 10;
                 digitMultiplication[i] = digitMultiplication[i] % 10;
@@ -48,4 +48,5 @@ namespace LeetCodeProblems.Medium
 
             return res;
         }
+    }
 }
