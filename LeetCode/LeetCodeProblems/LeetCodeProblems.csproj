@@ -149,6 +149,7 @@
     <Compile Include="Medium\MaximumBinaryTree.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
+    <Compile Include="Medium\MultiplyStrings.cs" />
     <Compile Include="Medium\NextRightPointerInTree.cs" />
     <Compile Include="Medium\PartitionList.cs" />
     <Compile Include="Medium\PathSumAllPaths.cs" />
