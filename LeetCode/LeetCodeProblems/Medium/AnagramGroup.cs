@@ -10,7 +10,7 @@ namespace LeetCodeProblems.Medium
     //https://leetcode.com/problems/group-anagrams/solution/
     //Given an array of strings, group anagrams together.
     //Time Complexity:O(NKlog⁡K) : N = no. of strings, k max length of string
-    class AnagramGroup
+    public class AnagramGroup
     {
         public IList<IList<string>> GroupAnagrams(string[] strs)
         {
