@@ -20,7 +20,7 @@ namespace LeetCodeProblems.Easy
             {
                 //2 cases
                 //nums[i] itself is > prev max.
-                //nums[i] is +Ve so multiply by till last index's Max
+                //nums[i] + till last index's Max
 
                 maxTillHere[i] = Math.Max(nums[i], maxTillHere[i - 1] + nums[i]);
                 res = Math.Max(res, maxTillHere[i]);
