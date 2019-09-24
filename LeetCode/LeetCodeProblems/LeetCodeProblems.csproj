@@ -107,6 +107,7 @@
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
     <Compile Include="Hard\NQueens.cs" />
+    <Compile Include="Hard\NQueensII.cs" />
     <Compile Include="Hard\SudokuSolver.cs" />
     <Compile Include="Medium\3Sum.cs" />
     <Compile Include="Medium\3SumClosest.cs" />
