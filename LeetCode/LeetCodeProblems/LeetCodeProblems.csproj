@@ -103,6 +103,7 @@
     <Compile Include="Easy\ValidParentheses.cs" />
     <Compile Include="Hard\Candy.cs" />
     <Compile Include="Hard\DistinctSubsequences.cs" />
+    <Compile Include="Hard\InsertInterval.cs" />
     <Compile Include="Hard\LongestValidPranthesisInString.cs" />
     <Compile Include="Hard\MaximumSumPath.cs" />
     <Compile Include="Hard\MedianOfTwoSortedArrays.cs" />
