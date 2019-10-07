@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\AddBinaryStrings.cs" />
     <Compile Include="Easy\BalancedBinaryTree.cs" />
     <Compile Include="Easy\BinaryTreePathsRootToLeaf.cs" />
     <Compile Include="Easy\BinaryTreeTilt.cs" />
