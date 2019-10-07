@@ -164,6 +164,7 @@
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
+    <Compile Include="Medium\RotateLinkedList.cs" />
     <Compile Include="Medium\SearchInRotatedSortedArray.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SpiralMatrix.cs" />
