@@ -174,6 +174,7 @@
     <Compile Include="Medium\RotateLinkedList.cs" />
     <Compile Include="Medium\Search2DMatrix.cs" />
     <Compile Include="Medium\SearchInRotatedSortedArray.cs" />
+    <Compile Include="Medium\SearchInRotatedSortedArrayII.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SetMatrixZeroes.cs" />
     <Compile Include="Medium\SortColor.cs" />
