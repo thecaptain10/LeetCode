@@ -35,6 +35,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -172,6 +175,7 @@
     <Compile Include="Medium\SearchInRotatedSortedArray.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SetMatrixZeroes.cs" />
+    <Compile Include="Medium\SortColor.cs" />
     <Compile Include="Medium\SpiralMatrix.cs" />
     <Compile Include="Medium\SpiralMatrixII.cs" />
     <Compile Include="Medium\SubSet.cs" />
@@ -184,12 +188,14 @@
     <Compile Include="Medium\ValidateBST.cs" />
     <Compile Include="Medium\ValidSudoku.cs" />
     <Compile Include="Medium\WordBreakProblem.cs" />
+    <Compile Include="Medium\WordSearch.cs" />
     <Compile Include="Medium\ZigzagLevelOrderTraversal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
