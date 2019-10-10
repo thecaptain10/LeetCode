@@ -35,6 +35,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\AddBinaryStrings.cs" />
     <Compile Include="Easy\BalancedBinaryTree.cs" />
     <Compile Include="Easy\BinaryTreePathsRootToLeaf.cs" />
     <Compile Include="Easy\BinaryTreeTilt.cs" />
@@ -79,6 +83,7 @@
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
+    <Compile Include="Easy\PlusOneToIntInArray.cs" />
     <Compile Include="Easy\RangeSumOfBST.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Easy\RemoveElementFromArray.cs" />
@@ -153,6 +158,7 @@
     <Compile Include="Medium\MaximumBinaryTree.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
+    <Compile Include="Medium\MinimumPathSum.cs" />
     <Compile Include="Medium\MultiplyStrings.cs" />
     <Compile Include="Medium\NextRightPointerInTree.cs" />
     <Compile Include="Medium\PartitionList.cs" />
@@ -164,10 +170,15 @@
     <Compile Include="Medium\PrintUniqueBST.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
+    <Compile Include="Medium\RotateLinkedList.cs" />
+    <Compile Include="Medium\Search2DMatrix.cs" />
     <Compile Include="Medium\SearchInRotatedSortedArray.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
+    <Compile Include="Medium\SetMatrixZeroes.cs" />
+    <Compile Include="Medium\SortColor.cs" />
     <Compile Include="Medium\SpiralMatrix.cs" />
     <Compile Include="Medium\SpiralMatrixII.cs" />
+    <Compile Include="Medium\SubSet.cs" />
     <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\SwapLLNodesInPair.cs" />
@@ -177,12 +188,14 @@
     <Compile Include="Medium\ValidateBST.cs" />
     <Compile Include="Medium\ValidSudoku.cs" />
     <Compile Include="Medium\WordBreakProblem.cs" />
+    <Compile Include="Medium\WordSearch.cs" />
     <Compile Include="Medium\ZigzagLevelOrderTraversal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
