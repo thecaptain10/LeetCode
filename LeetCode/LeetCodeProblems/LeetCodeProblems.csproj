@@ -70,6 +70,7 @@
     <Compile Include="Easy\MaxDepthOfTree.cs" />
     <Compile Include="Easy\MaximumSubArray.cs" />
     <Compile Include="Easy\MergeBinaryTress.cs" />
+    <Compile Include="Easy\MergeSortedArrays.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\MinAbsoluteDiffInBST.cs" />
     <Compile Include="Easy\MinDepthOfTree.cs" />
