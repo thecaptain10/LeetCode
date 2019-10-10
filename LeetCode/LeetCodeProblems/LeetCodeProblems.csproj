@@ -182,6 +182,7 @@
     <Compile Include="Medium\SpiralMatrix.cs" />
     <Compile Include="Medium\SpiralMatrixII.cs" />
     <Compile Include="Medium\SubSet.cs" />
+    <Compile Include="Medium\SubsetsII.cs" />
     <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\SwapLLNodesInPair.cs" />
