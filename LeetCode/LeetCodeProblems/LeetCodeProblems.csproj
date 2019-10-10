@@ -168,6 +168,7 @@
     <Compile Include="Medium\Power.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
+    <Compile Include="Medium\RemoveDuplicatesFromSortedArrayII.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
     <Compile Include="Medium\RotateLinkedList.cs" />
