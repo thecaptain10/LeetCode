@@ -70,6 +70,7 @@
     <Compile Include="Easy\MaxDepthOfTree.cs" />
     <Compile Include="Easy\MaximumSubArray.cs" />
     <Compile Include="Easy\MergeBinaryTress.cs" />
+    <Compile Include="Easy\MergeSortedArrays.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
     <Compile Include="Easy\MinAbsoluteDiffInBST.cs" />
     <Compile Include="Easy\MinDepthOfTree.cs" />
@@ -130,6 +131,7 @@
     <Compile Include="Medium\CombinationSumSets.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
+    <Compile Include="Medium\ConstructBSTFromInorderAndPreorder.cs" />
     <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
@@ -168,17 +170,21 @@
     <Compile Include="Medium\Power.cs" />
     <Compile Include="Medium\PreOrderBinaryTree.cs" />
     <Compile Include="Medium\PrintUniqueBST.cs" />
+    <Compile Include="Medium\RemoveDuplicatesFromSortedArrayII.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
+    <Compile Include="Medium\ReverseLinkedListII.cs" />
     <Compile Include="Medium\RotateLinkedList.cs" />
     <Compile Include="Medium\Search2DMatrix.cs" />
     <Compile Include="Medium\SearchInRotatedSortedArray.cs" />
+    <Compile Include="Medium\SearchInRotatedSortedArrayII.cs" />
     <Compile Include="Medium\SerializeBST.cs" />
     <Compile Include="Medium\SetMatrixZeroes.cs" />
     <Compile Include="Medium\SortColor.cs" />
     <Compile Include="Medium\SpiralMatrix.cs" />
     <Compile Include="Medium\SpiralMatrixII.cs" />
     <Compile Include="Medium\SubSet.cs" />
+    <Compile Include="Medium\SubsetsII.cs" />
     <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\SwapLLNodesInPair.cs" />
