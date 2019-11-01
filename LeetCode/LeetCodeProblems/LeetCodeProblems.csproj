@@ -131,6 +131,7 @@
     <Compile Include="Medium\CombinationSumSets.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
     <Compile Include="Medium\CompleteTreeNodes.cs" />
+    <Compile Include="Medium\ConstructBSTFromInorderAndPreorder.cs" />
     <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
