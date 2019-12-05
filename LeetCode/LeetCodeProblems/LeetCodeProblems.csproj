@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="Easy\AddBinaryStrings.cs" />
     <Compile Include="Easy\BalancedBinaryTree.cs" />
+    <Compile Include="Easy\BestTimeToBuySellStock.cs" />
+    <Compile Include="Easy\BestTimeToBuySellStockII.cs" />
     <Compile Include="Easy\BinaryTreePathsRootToLeaf.cs" />
     <Compile Include="Easy\BinaryTreeTilt.cs" />
     <Compile Include="Easy\BSTToGreaterTree.cs" />
