@@ -58,6 +58,7 @@
     <Compile Include="Easy\ConvertSortedArrayToBST.cs" />
     <Compile Include="Easy\CountPrimes.cs" />
     <Compile Include="Easy\DiameterOfTree.cs" />
+    <Compile Include="Easy\ExcelSheetColumnTitle.cs" />
     <Compile Include="Easy\ImplementStrStr.cs" />
     <Compile Include="Easy\InvertBinaryTree.cs" />
     <Compile Include="Easy\IsPalindromeNumber.cs" />
