@@ -75,6 +75,7 @@
     <Compile Include="Easy\MergeBinaryTress.cs" />
     <Compile Include="Easy\MergeSortedArrays.cs" />
     <Compile Include="Easy\MergeTwoSortedLists.cs" />
+    <Compile Include="Easy\MiddleOfLinkedList.cs" />
     <Compile Include="Easy\MinAbsoluteDiffInBST.cs" />
     <Compile Include="Easy\MinDepthOfTree.cs" />
     <Compile Include="Easy\MinDistanceBetweenBSTNodes.cs" />
@@ -126,6 +127,7 @@
     <Compile Include="Medium\AddOneRowToTree.cs" />
     <Compile Include="Medium\AddTwoNumbersUsingLL.cs" />
     <Compile Include="Medium\AnagramGroup.cs" />
+    <Compile Include="Medium\AngleClock.cs" />
     <Compile Include="Medium\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
