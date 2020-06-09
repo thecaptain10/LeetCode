@@ -141,6 +141,7 @@
     <Compile Include="Medium\ConstructBSTFromInorderAndPreorder.cs" />
     <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
+    <Compile Include="Medium\ConvertSortedListToBST.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\DeleteNodeInBST.cs" />
