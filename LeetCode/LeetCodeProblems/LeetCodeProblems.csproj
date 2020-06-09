@@ -86,6 +86,7 @@
     <Compile Include="Easy\N_AryLevelOrderTraversal.cs" />
     <Compile Include="Easy\N_AryPostOrderTraversal.cs" />
     <Compile Include="Easy\N_AryPreOrderTraversal.cs" />
+    <Compile Include="Easy\PalindromeLinkedList.cs" />
     <Compile Include="Easy\PascalTriangle.cs" />
     <Compile Include="Easy\PathSum.cs" />
     <Compile Include="Easy\PathSumIII.cs" />
@@ -140,6 +141,7 @@
     <Compile Include="Medium\ConstructBSTFromInorderAndPreorder.cs" />
     <Compile Include="Medium\ConstructBSTFromPreOrder.cs" />
     <Compile Include="Medium\ContainerWithMostWater.cs" />
+    <Compile Include="Medium\ConvertSortedListToBST.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\DeleteNodeInBST.cs" />
@@ -181,6 +183,7 @@
     <Compile Include="Medium\RemoveDuplicatesFromSortedArrayII.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
+    <Compile Include="Medium\ReorderLinkedList.cs" />
     <Compile Include="Medium\ReverseLinkedListII.cs" />
     <Compile Include="Medium\RotateLinkedList.cs" />
     <Compile Include="Medium\Search2DMatrix.cs" />
