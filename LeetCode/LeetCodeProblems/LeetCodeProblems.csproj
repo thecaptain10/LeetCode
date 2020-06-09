@@ -63,6 +63,7 @@
     <Compile Include="Easy\ImplementStrStr.cs" />
     <Compile Include="Easy\InvertBinaryTree.cs" />
     <Compile Include="Easy\IsPalindromeNumber.cs" />
+    <Compile Include="Easy\IsSubsequenceString.cs" />
     <Compile Include="Easy\LeftLeavesSum.cs" />
     <Compile Include="Easy\LevelAverageInBinaryTree.cs" />
     <Compile Include="Easy\LevelOrderTraversalRev.cs" />
