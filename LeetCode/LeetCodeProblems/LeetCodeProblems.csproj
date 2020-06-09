@@ -83,6 +83,7 @@
     <Compile Include="Easy\MissingNumberInArray.cs" />
     <Compile Include="Easy\ModeInBST.cs" />
     <Compile Include="Easy\MaxDepthOfN_AryTree.cs" />
+    <Compile Include="Easy\MoveZeroesAtEnd.cs" />
     <Compile Include="Easy\N_AryLevelOrderTraversal.cs" />
     <Compile Include="Easy\N_AryPostOrderTraversal.cs" />
     <Compile Include="Easy\N_AryPreOrderTraversal.cs" />
