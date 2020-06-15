@@ -167,6 +167,7 @@
     <Compile Include="Medium\LongestPalindromeSubstring.cs" />
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
+    <Compile Include="Medium\MagicDictionary.cs" />
     <Compile Include="Medium\MaximumBinaryTree.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
