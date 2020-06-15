@@ -201,6 +201,7 @@
     <Compile Include="Medium\SubStringWithoutRepeatedChars.cs" />
     <Compile Include="Medium\SumRootToLeafNumbers.cs" />
     <Compile Include="Medium\SwapLLNodesInPair.cs" />
+    <Compile Include="Medium\Trie.cs" />
     <Compile Include="Medium\UniqueBSTCount.cs" />
     <Compile Include="Medium\UniquePathsInGrid.cs" />
     <Compile Include="Medium\UniquePathsInGridWithObstacles.cs" />
