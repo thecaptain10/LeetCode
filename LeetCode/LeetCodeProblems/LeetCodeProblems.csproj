@@ -137,6 +137,7 @@
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
+    <Compile Include="Medium\CamelcaseMatching.cs" />
     <Compile Include="Medium\CombinationSumII.cs" />
     <Compile Include="Medium\CombinationSumSets.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
