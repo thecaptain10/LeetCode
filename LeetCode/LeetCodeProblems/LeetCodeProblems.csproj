@@ -125,6 +125,7 @@
     <Compile Include="Hard\NQueens.cs" />
     <Compile Include="Hard\NQueensII.cs" />
     <Compile Include="Hard\SudokuSolver.cs" />
+    <Compile Include="Hard\WordSearchII.cs" />
     <Compile Include="Medium\3Sum.cs" />
     <Compile Include="Medium\3SumClosest.cs" />
     <Compile Include="Medium\4Sum.cs" />
