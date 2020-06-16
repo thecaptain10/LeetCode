@@ -169,6 +169,7 @@
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MagicDictionary.cs" />
+    <Compile Include="Medium\MapSumPairs.cs" />
     <Compile Include="Medium\MaximumBinaryTree.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
