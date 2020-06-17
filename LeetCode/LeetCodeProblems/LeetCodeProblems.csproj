@@ -125,6 +125,7 @@
     <Compile Include="Hard\NQueens.cs" />
     <Compile Include="Hard\NQueensII.cs" />
     <Compile Include="Hard\SudokuSolver.cs" />
+    <Compile Include="Hard\WordSearchII.cs" />
     <Compile Include="Medium\3Sum.cs" />
     <Compile Include="Medium\3SumClosest.cs" />
     <Compile Include="Medium\4Sum.cs" />
@@ -136,6 +137,7 @@
     <Compile Include="Medium\BinaryTreeRightSideView.cs" />
     <Compile Include="Medium\BottomLeftTreeValue.cs" />
     <Compile Include="Medium\BSTIterator.cs" />
+    <Compile Include="Medium\CamelcaseMatching.cs" />
     <Compile Include="Medium\CombinationSumII.cs" />
     <Compile Include="Medium\CombinationSumSets.cs" />
     <Compile Include="Medium\CompleteBinaryTreeInserter.cs" />
@@ -168,6 +170,7 @@
     <Compile Include="Medium\LowestCommonAncestorInBinaryTree.cs" />
     <Compile Include="Medium\LRUCacheImplementation.cs" />
     <Compile Include="Medium\MagicDictionary.cs" />
+    <Compile Include="Medium\MapSumPairs.cs" />
     <Compile Include="Medium\MaximumBinaryTree.cs" />
     <Compile Include="Medium\MaxProductSubarray.cs" />
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
@@ -187,6 +190,7 @@
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Medium\RemoveNthNodeFromEndInLL.cs" />
     <Compile Include="Medium\ReorderLinkedList.cs" />
+    <Compile Include="Medium\ReplaceWordsWithRoot.cs" />
     <Compile Include="Medium\ReverseLinkedListII.cs" />
     <Compile Include="Medium\RotateLinkedList.cs" />
     <Compile Include="Medium\Search2DMatrix.cs" />
