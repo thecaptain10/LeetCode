@@ -180,6 +180,7 @@
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
     <Compile Include="Medium\MinimumPathSum.cs" />
     <Compile Include="Medium\MultiplyStrings.cs" />
+    <Compile Include="Medium\NetworkDelay.cs" />
     <Compile Include="Medium\NextGreaterNodeInLinkedList.cs" />
     <Compile Include="Medium\NextRightPointerInTree.cs" />
     <Compile Include="Medium\OddEvenLinkedList.cs" />
