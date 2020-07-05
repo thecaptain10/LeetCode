@@ -147,6 +147,8 @@
     <Compile Include="Medium\ContainerWithMostWater.cs" />
     <Compile Include="Medium\ConvertSortedListToBST.cs" />
     <Compile Include="Medium\CopyListWithRandomPointers.cs" />
+    <Compile Include="Medium\CourseSchedule.cs" />
+    <Compile Include="Medium\CourseScheduleII.cs" />
     <Compile Include="Medium\DecodeWays.cs" />
     <Compile Include="Medium\DeleteNodeInBST.cs" />
     <Compile Include="Medium\DivideTwoIntegers.cs" />
@@ -155,6 +157,8 @@
     <Compile Include="Medium\FlipEquivalentBinaryTree.cs" />
     <Compile Include="Medium\FrequentSubTreeSum.cs" />
     <Compile Include="Medium\GenerateParenthesesWithNPairs.cs" />
+    <Compile Include="Medium\Graph.cs" />
+    <Compile Include="Medium\GraphClone.cs" />
     <Compile Include="Medium\InorderBinaryTree.cs" />
     <Compile Include="Medium\InsertInBST.cs" />
     <Compile Include="Medium\IsCompleteBinaryTree.cs" />
@@ -176,6 +180,7 @@
     <Compile Include="Medium\MaxWidthOfBinaryTree.cs" />
     <Compile Include="Medium\MinimumPathSum.cs" />
     <Compile Include="Medium\MultiplyStrings.cs" />
+    <Compile Include="Medium\NetworkDelay.cs" />
     <Compile Include="Medium\NextGreaterNodeInLinkedList.cs" />
     <Compile Include="Medium\NextRightPointerInTree.cs" />
     <Compile Include="Medium\OddEvenLinkedList.cs" />
